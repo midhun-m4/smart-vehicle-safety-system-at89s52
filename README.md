@@ -62,10 +62,10 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 
 ## Team Members
 
-- Archana Nair
-- Team Member 2
-- Team Member 3
-- Team Member 4
+- MIDHUN M 
+- ARCHANA NAIR
+- VISHNUPRIYA R
+- VARUNAPRIYA
 
 ---
 
