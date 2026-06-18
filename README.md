@@ -40,13 +40,13 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 
 ## Block Diagram
 
-![Block Diagram](svs%20block%20diagram.png)
+![Block Diagram](block%20diagram.png)
 
 ---
 
 ## Hardware Demonstration
 
-![Hardware Demo](hardware_demo.jpeg)
+![Hardware Demo](hardware%20JPG.jpeg)
 
 ---
 
