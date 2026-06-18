@@ -54,9 +54,9 @@ This combination of automatic headlight dimming and obstacle detection enhances 
 
 | File | Description |
 |--------|-------------|
-| `smart_vehicle.c` | Source code |
-| `svs block diagram.png` | System block diagram |
-| `hardware_demo.jpeg` | Hardware demonstration image |
+| `SVS_SYSTEM.c` | Source code |
+| `BLOCK DIAGRAM.png` | System block diagram |
+| `HARDWARE.jpeg` | Hardware demonstration image |
 
 ---
 
